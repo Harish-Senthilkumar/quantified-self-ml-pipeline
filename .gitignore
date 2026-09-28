@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =====================================================================
+# CUSTOM PORTFOLIO SAFETY LOCKS
+# =====================================================================
+# Block my actual personal activity dataset from ever hitting GitHub
+workout_logs.csv
